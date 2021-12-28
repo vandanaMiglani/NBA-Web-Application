@@ -1,0 +1,15 @@
+{
+  "short_name": "NBA Game Time",
+  "name": "NBA Game Time",
+  "icons": [
+    {
+      "src": "addressbar.png",
+      "type": "image/png",
+      "sizes": "540x540"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

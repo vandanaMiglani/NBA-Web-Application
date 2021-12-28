@@ -1,0 +1,21 @@
+.ant-tabs-nav .ant-tabs-nav-wrap .ant-tabs-nav-list .ant-tabs-tab {
+    font-size: 16px;
+    
+    
+}
+ 
+#cb {
+   border: double;
+   border-color: black;
+}
+ 
+/*table {
+    border: double;
+    border-color: #4c4c4c;
+ } */
+ 
+ tr:hover {background-color: lightgray;}
+ 
+.ant-tabs-nav .ant-tabs-nav-wrap .ant-tabs-nav-list .ant-tabs-tab .ant-tabs-tab-active{
+    color: rosybrown;
+}
